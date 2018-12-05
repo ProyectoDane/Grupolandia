@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/moisesapaza/ProjectsAndroid/GrupolandiaAndroidStudio/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/moisesapaza/ProjectsAndroid/GrupolandiaAndroidStudio/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "58",
+                        "endOffsets": "71"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "268",
+                        "endColumns": "57",
+                        "endOffsets": "321"
+                    }
+                },
+                {
+                    "source": "/Users/moisesapaza/ProjectsAndroid/GrupolandiaAndroidStudio/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "17,66,119,170",
+                        "endColumns": "48,52,50,59",
+                        "endOffsets": "61,114,165,225"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,104,157,208",
+                        "endColumns": "48,52,50,59",
+                        "endOffsets": "99,152,203,263"
+                    }
+                }
+            ]
+        }
+    ]
+}
